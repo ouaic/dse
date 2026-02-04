@@ -17,7 +17,7 @@ dependencies:
   - r-ggally
   - r-ggcorrplot
   - r-mosaic
-  - octave_kernel
-  - gnuplot
-  - octave
-  - texinfo
+#  - octave_kernel
+#  - gnuplot
+#  - octave
+#  - texinfo
