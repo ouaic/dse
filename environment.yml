@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - tensorflow
+  - r-base
+  - r-essentials
+  - r-tidyverse
+  - r-psych
+  - r-pracma
+  - r-ggally
+  - r-ggcorrplot
+  - r-mosaic
+  - octave_kernel
+  - gnuplot
+  - octave
+  - texinfo
